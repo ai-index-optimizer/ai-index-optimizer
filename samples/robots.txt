@@ -1,0 +1,83 @@
+# AI Index Optimizer — https://ai-index-optimizer.com
+# Public marketing pages are open to search and AI crawlers; account areas are not.
+
+User-agent: *
+Allow: /
+Disallow: /Admin
+Disallow: /AdminDocs
+Disallow: /Billing
+Disallow: /Settings
+Disallow: /Account
+Disallow: /Profile
+Disallow: /DataExport
+
+User-agent: GPTBot
+Allow: /
+Disallow: /Admin
+Disallow: /AdminDocs
+Disallow: /Billing
+Disallow: /Settings
+Disallow: /Account
+Disallow: /Profile
+Disallow: /DataExport
+
+User-agent: OAI-SearchBot
+Allow: /
+Disallow: /Admin
+Disallow: /AdminDocs
+Disallow: /Billing
+Disallow: /Settings
+Disallow: /Account
+Disallow: /Profile
+Disallow: /DataExport
+
+User-agent: ChatGPT-User
+Allow: /
+Disallow: /Admin
+Disallow: /AdminDocs
+Disallow: /Billing
+Disallow: /Settings
+Disallow: /Account
+Disallow: /Profile
+Disallow: /DataExport
+
+User-agent: ClaudeBot
+Allow: /
+Disallow: /Admin
+Disallow: /AdminDocs
+Disallow: /Billing
+Disallow: /Settings
+Disallow: /Account
+Disallow: /Profile
+Disallow: /DataExport
+
+User-agent: Claude-Web
+Allow: /
+Disallow: /Admin
+Disallow: /AdminDocs
+Disallow: /Billing
+Disallow: /Settings
+Disallow: /Account
+Disallow: /Profile
+Disallow: /DataExport
+
+User-agent: PerplexityBot
+Allow: /
+Disallow: /Admin
+Disallow: /AdminDocs
+Disallow: /Billing
+Disallow: /Settings
+Disallow: /Account
+Disallow: /Profile
+Disallow: /DataExport
+
+User-agent: Google-Extended
+Allow: /
+
+User-agent: Applebot-Extended
+Allow: /
+
+User-agent: CCBot
+Allow: /
+
+Sitemap: https://ai-index-optimizer.com/sitemap.xml

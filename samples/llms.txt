@@ -1,0 +1,24 @@
+# AI Index Optimizer
+
+> AI visibility audits and fixes for SEO agencies: see exactly why ChatGPT, Claude, Gemini and Perplexity ignore a site, then fix crawler access, llms.txt, robots.txt, schema and metadata.
+
+## What it does
+
+- AI crawler access audit: shows whether GPTBot, ClaudeBot, PerplexityBot, Google-Extended and other crawlers are blocked by robots.txt, a firewall or a login wall.
+- llms.txt and robots.txt generation: produces the access files that let assistants discover and read the site, ready to deploy.
+- Schema and metadata audit: checks titles, descriptions, headings and structured data that decide whether a page can be quoted in an AI answer.
+- Per-provider AI visibility: reports what ChatGPT, Claude, Gemini and Perplexity each see, provider by provider, and what to fix first.
+
+## Pricing
+
+- Free: $0/mo, 1 domain, full audit and visibility score.
+- Starter: $39/mo, 3 domains, unlimited rescans, crawler rules and access file deployment.
+- Growth: $99/mo, 10 domains, branded reports, page-level rules and crawl analytics.
+- Agency: $299/mo, 30 domains, white-label reports, bulk scans and priority support.
+
+## Links
+
+- [Home](https://ai-index-optimizer.com/)
+- [Pricing](https://ai-index-optimizer.com/pricing)
+- [Free AI visibility audit](https://ai-index-optimizer.com/geo-audit)
+- [Machine-readable access policy](https://ai-index-optimizer.com/ai-access.json)
