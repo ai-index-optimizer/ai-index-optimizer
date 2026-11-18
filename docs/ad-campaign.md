@@ -61,3 +61,45 @@ Keywords: ai visibility, ai search optimization, answer engine optimization, llm
 
 1. **A conversion path on /geo-audit.** It currently renders as text with no form and no button. Ads pointed there convert nothing. Needs a domain input, a run button and a result screen, or a clear link into the app.
 2. **A verified number if we use one.** "80 million daily AI users" is not sourced. Public figures we can cite today: ChatGPT about 900 million weekly users, Gemini about 1 billion monthly. Until we pick a citable figure, the copy above uses no user count at all.
+
+---
+
+# v1.1, 2026-11-18: community copy and the 1-2-3 scan
+
+Verified in a live browser at 21:10 UTC: /geo-audit renders a hero, a "Start free scan" button and four audit cards. Clicking that button opens a "Sign in to AIO" modal. There is no anonymous scan, so no copy below may promise "no signup".
+
+## Telegram and WhatsApp, 1-2-3 format
+
+G4
+1. Open the link
+2. Type your domain
+3. Read what AI says about you
+That is the whole audit. Free, two minutes.
+https://ai-index-optimizer.com/geo-audit
+
+G5
+Every day ChatGPT answers "best restaurant near me" and your business is not in the answer.
+Not because you are worse. Because AI cannot read your site.
+Free check: https://ai-index-optimizer.com/geo-audit
+
+G6
+We scanned 21 crypto projects. 12 of them published an llms.txt and still named zero AI crawlers in robots.txt.
+Having the file is not the fix. Giving permission is.
+Check yours: https://ai-index-optimizer.com/geo-audit
+
+G7
+Your clients ask why AI never mentions them. This is the report that answers it, provider by provider: ChatGPT, Claude, Gemini, Perplexity.
+Free scan per domain: https://ai-index-optimizer.com/geo-audit
+
+G8 short, for a busy group
+Type your website in here and see what ChatGPT, Gemini, Claude and Perplexity can actually read. Two minutes, free.
+https://ai-index-optimizer.com/geo-audit
+
+G9 owner voice, first person
+I run a tool that checks whether AI assistants can read a business website. Most cannot, so AI recommends the competitor instead. If you want yours checked, the link is here and it is free.
+https://ai-index-optimizer.com/geo-audit
+
+## Profile and directory bios, using the marks now published
+
+Short, 60 chars: AI visibility audits. See what ChatGPT says about your site.
+Medium, 160 chars: AI Index Optimizer checks whether ChatGPT, Claude, Gemini and Perplexity can read your site, then ships the fix files. Free audit, plans from $39/mo.
