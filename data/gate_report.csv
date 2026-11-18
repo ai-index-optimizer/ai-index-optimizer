@@ -1,0 +1,90 @@
+source,name,site,email,verdict,reason,evidence_url,checked_at
+local_leads_atlanta.csv,Good Word Brewing,goodwordbrewing.com,events@goodwordbrewing.com,pass,email domain matches the audited site,,2026-11-18T22:20:06+00:00
+local_leads_atlanta.csv,The Peachtree Cafe,peachtree-cafe.com,info@peachtree-cafe.com,pass,email domain matches the audited site,,2026-11-18T22:20:06+00:00
+local_leads_atlanta.csv,Duluth Diner,duluthdiner.com,duluthdiner@duluthdiner.com,pass,email domain matches the audited site,,2026-11-18T22:20:06+00:00
+local_leads_atlanta.csv,Little Barn,littlebarn.com,littlebarnonline@gmail.com,pass,address published on the audited site (free mailbox),https://littlebarn.com/,2026-11-18T22:20:06+00:00
+local_leads_atlanta.csv,Anejo,anejodtl.com,anejodtl@gmail.com,pass,address published on the audited site (free mailbox),https://anejodtl.com/,2026-11-18T22:20:06+00:00
+local_leads_atlanta.csv,4 Amigos Mexican Kitchen,4amigosmexicankitchen.com,contacto@growmarketingmexico.com,pass,address published on the audited site (different domain),https://4amigosmexicankitchen.com/,2026-11-18T22:20:09+00:00
+local_leads_atlanta.csv,Sweetsong Kitchen & Bar,sweetsongrestaurant.com,forms@tambourine.com,pass,address published on the audited site (different domain),https://www.sweetsongrestaurant.com/,2026-11-18T22:20:09+00:00
+local_leads_atlanta2.csv,Suwanee Social,thesuwaneesocial.com,example@mail.com,block,"no valid email address (empty, placeholder or junk string)",,2026-11-18T22:20:09+00:00
+local_leads_atlanta2.csv,Bloom Room Social,bloomroomsocial.com,gerson@thesuwaneesocial.com,pass,address published on the audited site (different domain),https://www.bloomroomsocial.com/,2026-11-18T22:20:09+00:00
+local_leads_atlanta2.csv,Flavor Rich,suwanee.flavorrichrestaurant.com,cmf0732@yahoo.com,block,free mailbox and not published on flavorrichrestaurant.com: cannot prove it belongs to this business,,2026-11-18T22:20:09+00:00
+local_leads_atlanta2.csv,La Belle Vie Kitchen,eatlabellevie.com,labelleviefood@gmail.com,pass,address published on the audited site (free mailbox),https://eatlabellevie.com/,2026-11-18T22:20:09+00:00
+local_leads_atlanta2.csv,Budder's,buddersatl.com,shawn@buddersatl.com,pass,email domain matches the audited site,,2026-11-18T22:20:09+00:00
+local_leads_atlanta2.csv,Jam & Toast,jamandtoastcafe.com,jamandtoast30024@gmail.com,pass,address published on the audited site (free mailbox),https://jamandtoastcafe.com/,2026-11-18T22:20:09+00:00
+local_leads_atlanta2.csv,Hammerheads Seafood,hammerheadsseafood.com,office@hammerheadsseafood.com,pass,email domain matches the audited site,,2026-11-18T22:20:09+00:00
+local_leads_atlanta2.csv,Flaming Iron,flaming-iron.com,info.flamingiron@gmail.com,pass,address published on the audited site (free mailbox),https://www.flaming-iron.com/,2026-11-18T22:20:09+00:00
+local_leads_atlanta2.csv,Korea Garden BBQ,koreagardenbbqrestaurant.com,example@mail.com,block,"no valid email address (empty, placeholder or junk string)",,2026-11-18T22:20:09+00:00
+local_leads_atlanta2.csv,Bare Bones Steakhouse,barebonessteakhouse.com,info@barebonessteakhouse.com,pass,email domain matches the audited site,,2026-11-18T22:20:09+00:00
+local_leads_atlanta2.csv,Italian Pie,italianpizzapie.com,italianpizzapie@gmail.com,pass,address published on the audited site (free mailbox),https://italianpizzapie.com/contact,2026-11-18T22:20:09+00:00
+local_leads_atlanta2.csv,Amasa Mexican,amasamexican.com,restaurant@amasamexican.com,pass,email domain matches the audited site,,2026-11-18T22:20:09+00:00
+local_leads_atlanta2.csv,Local Expedition Grill,thelocalwoodfiredgrill.com,admin@thelocalwoodfiredgrill.com,pass,email domain matches the audited site,,2026-11-18T22:20:09+00:00
+local_leads_atlanta2.csv,Eclipse di Luna,eclipsediluna.com,info@eclipsehalcyon.com,pass,address published on the audited site (different domain),https://www.eclipsediluna.com/,2026-11-18T22:20:09+00:00
+local_leads_atlanta2.csv,Butcher and Bottle,alpharetta.thebutcherandbottle.com,info@thebutcherandbottle.com,pass,email domain matches the audited site,,2026-11-18T22:20:09+00:00
+local_leads_atlanta2.csv,Clave by Mojitos,claveatl.com,info@claveatl.com,pass,email domain matches the audited site,,2026-11-18T22:20:09+00:00
+local_leads_atlanta2.csv,Wheelhouse Pub,wheelhousepubdecatur.com,kathryn@wheelhousepubdecatur.com,pass,email domain matches the audited site,,2026-11-18T22:20:09+00:00
+local_leads_atlanta2.csv,Kimball House,kimball-house.com,info@kimball-house.com,pass,email domain matches the audited site,,2026-11-18T22:20:09+00:00
+local_leads_atlanta2.csv,no. 246,no246.com,no246@rocketfarmrestaurants.com,pass,address published on the audited site (different domain),https://no246.com/,2026-11-18T22:20:09+00:00
+local_leads_atlanta2.csv,Cafe Lily,cafelily.com,sowmya@cafelily.com,pass,email domain matches the audited site,,2026-11-18T22:20:09+00:00
+local_leads_savannah.csv,Strange Bird,strangebirdsavannah.com,info@strangebirdsavannah.com,pass,email domain matches the audited site,,2026-11-18T22:20:09+00:00
+local_leads_savannah.csv,Marbled & Fin,marbledandfinsav.com,info@marbledandfinsav.com,pass,email domain matches the audited site,,2026-11-18T22:20:09+00:00
+local_leads_savannah.csv,Savannah Seafood Shack,savannahseafoodshack.com,savannahseafoodshack@gmail.com,pass,address published on the audited site (free mailbox),https://savannahseafoodshack.com/,2026-11-18T22:20:09+00:00
+local_leads_savannah.csv,The Olde Pink House,theoldepinkhouserestaurant.com,craigjeffress@aol.com,pass,address published on the audited site (free mailbox),https://www.theoldepinkhouserestaurant.com/,2026-11-18T22:20:09+00:00
+local_leads_savannah.csv,Common Restaurant,commonrestaurant.com,frontdesk@commonrestaurant.com,pass,email domain matches the audited site,,2026-11-18T22:20:09+00:00
+local_leads_savannah.csv,Chive Sea Bar,chivelounge.com,info@rhinohgroup.com,pass,address published on the audited site (different domain),https://chivelounge.com/,2026-11-18T22:20:09+00:00
+local_leads_savannah.csv,Common Thread,commonthreadsavannah.com,info@commonthreadsavannah.com,pass,email domain matches the audited site,,2026-11-18T22:20:09+00:00
+local_leads_savannah.csv,B. Matthew's Eatery,bmatthewseatery.com,info@bmatthewseatery.com,pass,email domain matches the audited site,,2026-11-18T22:20:09+00:00
+send_queue.csv,verri.pro,verri.pro,alessandro@verri.pro,pass,email domain matches the audited site,,2026-11-18T22:20:09+00:00
+send_queue.csv,houtini.com,houtini.com,hello@houtini.com,pass,email domain matches the audited site,,2026-11-18T22:20:09+00:00
+send_queue.csv,pentamedia.ae,pentamedia.ae,info@pentame.com,pass,address published on the audited site (different domain),https://www.pentamedia.ae/,2026-11-18T22:20:09+00:00
+send_queue.csv,seobandwagon.com,seobandwagon.com,info@seobandwagon.com,pass,email domain matches the audited site,,2026-11-18T22:20:09+00:00
+send_queue.csv,rebelytics.com,rebelytics.com,eoghan@rebelytics.com,pass,email domain matches the audited site,,2026-11-18T22:20:09+00:00
+send_queue.csv,dicecodes.com,dicecodes.com,contact@dicecodes.com,pass,email domain matches the audited site,,2026-11-18T22:20:09+00:00
+github_leads_v2.csv,houtini-ai,houtini.com,hello@houtini.com,pass,email domain matches the audited site,,2026-11-18T22:20:09+00:00
+github_leads_v2.csv,elmohq,elmohq.com,contact@elmohq.com,pass,email domain matches the audited site,,2026-11-18T22:20:09+00:00
+github_leads_v2.csv,RankSpotAI,rankspot.ai,general@rankspot.ai,pass,email domain matches the audited site,,2026-11-18T22:20:09+00:00
+github_leads_v2.csv,epicx-labs,epicx.co.uk,hello@epicx.co.uk,pass,email domain matches the audited site,,2026-11-18T22:20:09+00:00
+github_leads_v2.csv,rebelytics,rebelytics.com,eoghan@rebelytics.com,pass,email domain matches the audited site,,2026-11-18T22:20:09+00:00
+github_leads_v2.csv,everyinfra,everyinfra.com,sales@everyinfra.com,pass,email domain matches the audited site,,2026-11-18T22:20:09+00:00
+github_leads_v2.csv,sasateguh,sasateguh.com,hello@sasateguh.com,pass,email domain matches the audited site,,2026-11-18T22:20:09+00:00
+github_leads_v2.csv,noobnooc,nooc.me,nooc@nooc.me,pass,email domain matches the audited site,,2026-11-18T22:20:09+00:00
+github_leads_v2.csv,ibrahim123-sia,syedibrahimali.vercel.app,syedibrahimali1111@gmail.com,block,free mailbox and not published on vercel.app: cannot prove it belongs to this business,,2026-11-18T22:20:09+00:00
+github_leads_v2.csv,jameshpenta,pentamedia.ae,info@pentame.com,pass,address published on the audited site (different domain),https://www.pentamedia.ae/,2026-11-18T22:20:09+00:00
+github_leads_v2.csv,zhuyansen,agentskillshub.top,m17551076169@gmail.com,pass,address published on the audited site (free mailbox),https://agentskillshub.top/,2026-11-18T22:20:09+00:00
+github_leads_v2.csv,ansvisor,ansvisor.com,support@ansvisor.com,pass,email domain matches the audited site,,2026-11-18T22:20:09+00:00
+github_leads_v2.csv,visibian,visibian.com,support@visibian.com,pass,email domain matches the audited site,,2026-11-18T22:20:09+00:00
+github_leads_v2.csv,aivisibilitycensus,aivisibilitycensus.com,hello@aivisibilitycensus.com,pass,email domain matches the audited site,,2026-11-18T22:20:09+00:00
+github_leads_v2.csv,cygnixlabs-cmd,mcp.cygnixlabs.com,info@cygnixlabs.com,pass,email domain matches the audited site,,2026-11-18T22:20:09+00:00
+github_leads_v2.csv,khadinakbarlabs,khadinakbar.com,hello@khadinakbar.com,pass,email domain matches the audited site,,2026-11-18T22:20:09+00:00
+github_leads_v2.csv,alessandro-verri,verri.pro,alessandro@verri.pro,pass,email domain matches the audited site,,2026-11-18T22:20:09+00:00
+github_leads_v2.csv,aichatwatch,aichatwatch.com?utm_source=github-profile,support@aicw.io,pass,address published on the audited site (different domain),https://aichatwatch.com/,2026-11-18T22:20:09+00:00
+github_leads_v2.csv,frontmost-ai,frontmost.ai,you@yourbusiness.com,block,"no valid email address (empty, placeholder or junk string)",,2026-11-18T22:20:09+00:00
+github_leads_v2.csv,manifoldmcp,manifoldmcp.com,jesse@manifoldmcp.com,pass,email domain matches the audited site,,2026-11-18T22:20:09+00:00
+github_leads_v2.csv,IamRamgarhia,dicecodes.com,contact@dicecodes.com,pass,email domain matches the audited site,,2026-11-18T22:20:09+00:00
+github_leads_v2.csv,leokdigital,leokdigital.com.br,contato@leokdigital.com.br,pass,email domain matches the audited site,,2026-11-18T22:20:09+00:00
+github_leads_v2.csv,georgekimaninjoroge,getbrace.netlify.app,wght@8..60,block,"no valid email address (empty, placeholder or junk string)",,2026-11-18T22:20:09+00:00
+github_leads_v2.csv,cangurel81,webadhere.com,info@webadhere.com,pass,email domain matches the audited site,,2026-11-18T22:20:09+00:00
+github_leads_v2.csv,seo-bandwagon,seobandwagon.com,info@seobandwagon.com,pass,email domain matches the audited site,,2026-11-18T22:20:09+00:00
+github_leads_v2.csv,Zinn-Digital,zinndigital.com,office@zinndigital.com,pass,email domain matches the audited site,,2026-11-18T22:20:09+00:00
+github_leads_v2.csv,AffPapa,affpapa.org,privacy@affpapa.org,pass,email domain matches the audited site,,2026-11-18T22:20:09+00:00
+github_leads_v2.csv,sarojkjha,skills.aajconsult.com,wght@6..72,block,"no valid email address (empty, placeholder or junk string)",,2026-11-18T22:20:09+00:00
+github_leads_v2.csv,risukisu,abialas.pl,portrait-risu@2x.webp,block,"no valid email address (empty, placeholder or junk string)",,2026-11-18T22:20:09+00:00
+github_leads_v2.csv,LoudFace,loudface-website.vercel.app,contact@loudface.co,block,email domain loudface.co does not match audited site vercel.app and the address is not published there,,2026-11-18T22:20:09+00:00
+github_leads_v2.csv,Buildpacelabs,last-agency-beige.vercel.app,info@lastagencyhere.com,block,email domain lastagencyhere.com does not match audited site vercel.app and the address is not published there,,2026-11-18T22:20:09+00:00
+github_leads_v2.csv,E-merging-digital,emergingdigital.be,contact@emergingdigital.be,pass,email domain matches the audited site,,2026-11-18T22:20:09+00:00
+github_leads_v2.csv,Nischhalsubba,nischhalsubba.com.np,hinischalsubba@gmail.com,pass,address published on the audited site (free mailbox),https://nischhalsubba.com.np/,2026-11-18T22:20:09+00:00
+github_leads_v2.csv,avalonreset,cto-legends.com,quest@cto-legends.com,pass,email domain matches the audited site,,2026-11-18T22:20:09+00:00
+github_leads_v2.csv,ies86,seoshortlist.com,info@seoshortlist.com,pass,email domain matches the audited site,,2026-11-18T22:20:09+00:00
+github_leads_v2.csv,tmolavi,inten.asia,info@inten.asia,pass,email domain matches the audited site,,2026-11-18T22:20:09+00:00
+github_leads_v2.csv,aaron-he-zhu,aaronmarketing.ai,hello@aaronmarketing.ai,pass,email domain matches the audited site,,2026-11-18T22:20:09+00:00
+github_leads_v2.csv,iamwaqargulzar,iamwaqargulzar.com,me@iamwaqargulzar.com,pass,email domain matches the audited site,,2026-11-18T22:20:09+00:00
+github_leads_v2.csv,sitharsrini,seodxb.com,hi@Listi.ae,pass,address published on the audited site (different domain),https://seodxb.com/,2026-11-18T22:20:09+00:00
+github_leads_v2.csv,primexcale,primexcale.com,primexcale@gmail.com,pass,address published on the audited site (free mailbox),https://primexcale.com/,2026-11-18T22:20:10+00:00
+github_leads_v2.csv,CrawlCove,crawlcove.com,support@crawlcove.com,pass,email domain matches the audited site,,2026-11-18T22:20:10+00:00
+github_leads_v2.csv,heyramzi,upsys-consulting.com,contact@upsys-consulting.com,pass,email domain matches the audited site,,2026-11-18T22:20:10+00:00
+github_leads_v2.csv,ops864,probativegrowth.com,hello@probativegrowth.com,pass,email domain matches the audited site,,2026-11-18T22:20:10+00:00
+github_leads_v2.csv,khalid-naami,khalidnaami.com,katex@0.13.24,block,"no valid email address (empty, placeholder or junk string)",,2026-11-18T22:20:10+00:00
+github_leads_v2.csv,zeshutmax,marketinque.com,you@company.com,block,"no valid email address (empty, placeholder or junk string)",,2026-11-18T22:20:10+00:00
+github_leads_v2.csv,yelmartinezseo,yel-martinez-portfolio.com,contacto@yel-martinez-portfolio.com,pass,email domain matches the audited site,,2026-11-18T22:20:10+00:00
+github_leads_v2.csv,krastranseu-lang,klyo.pl,kontakt@klyo.pl,pass,email domain matches the audited site,,2026-11-18T22:20:10+00:00
+github_leads_v2.csv,eullr,eullrich.com,hi@eullrich.com,pass,email domain matches the audited site,,2026-11-18T22:20:10+00:00
