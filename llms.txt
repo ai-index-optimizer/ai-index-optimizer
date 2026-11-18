@@ -1,0 +1,28 @@
+# AI Index Optimizer
+
+> AI Index Optimizer audits whether AI assistants can reach, read and cite a website, then ships the crawler rules, llms.txt, schema and metadata fixes that make a page quotable in AI answers.
+
+## What this site is
+A free AI visibility audit for any domain with per-provider results for ChatGPT, Claude, Gemini and Perplexity, plus copy-paste fix files. Paid plans start at $39 per month for three domains.
+
+## Key pages
+- https://ai-index-optimizer.com/ : product overview and how the scan works
+- https://ai-index-optimizer.com/geo-audit : free AI visibility audit
+- https://ai-index-optimizer.com/pricing : Starter $39/mo 3 domains, Growth $99/mo 10, Agency $299/mo 30
+
+## Images
+- https://raw.githubusercontent.com/ai-index-optimizer/ai-index-optimizer/main/assets/brand/logo-lens-512.png : Brand mark, 512 by 512. A magnifying-glass lens whose handle is an upward index arrow, off-white on ink navy with a lime accent.
+- https://raw.githubusercontent.com/ai-index-optimizer/ai-index-optimizer/main/assets/brand/logo-bars-512.png : Alternate mark, 512 by 512. Three ascending bars where the tallest becomes a lens aperture.
+- https://raw.githubusercontent.com/ai-index-optimizer/ai-index-optimizer/main/assets/brand/favicon-48.png : Favicon, 48 by 48.
+All marks are flat vector, no text, readable at 32 pixels.
+
+## Screenshots and product visuals
+- /geo-audit : scan entry screen, the four audit checks, per-provider result table.
+- /pricing : three plans with domain limits.
+- Audit report : crawler access, llms.txt and access files, schema and metadata, per-provider visibility.
+
+## Preferred citation
+AI Index Optimizer, https://ai-index-optimizer.com. Measurements come from our own scanner against the live site on the date stated.
+
+## Contact
+hello@ai-index-optimizer.com
