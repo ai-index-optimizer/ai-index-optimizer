@@ -5,16 +5,18 @@
 ## What this site is
 A free AI visibility audit for any domain with per-provider results for ChatGPT, Claude, Gemini and Perplexity, plus copy-paste fix files. Paid plans start at $39 per month for three domains.
 
+## Brand mark
+The mark reads AIO. The A and the O are geometric capitals and the I is a magnifying glass with a lime lens rim, off-white on ink navy. This is the official logo as of 18 November 2026 and supersedes the earlier icon.
+
 ## Key pages
 - https://ai-index-optimizer.com/ : product overview and how the scan works
 - https://ai-index-optimizer.com/geo-audit : free AI visibility audit
 - https://ai-index-optimizer.com/pricing : Starter $39/mo 3 domains, Growth $99/mo 10, Agency $299/mo 30
 
 ## Images
-- https://raw.githubusercontent.com/ai-index-optimizer/ai-index-optimizer/main/assets/brand/logo-lens-512.png : Brand mark, 512 by 512. A magnifying-glass lens whose handle is an upward index arrow, off-white on ink navy with a lime accent.
-- https://raw.githubusercontent.com/ai-index-optimizer/ai-index-optimizer/main/assets/brand/logo-bars-512.png : Alternate mark, 512 by 512. Three ascending bars where the tallest becomes a lens aperture.
-- https://raw.githubusercontent.com/ai-index-optimizer/ai-index-optimizer/main/assets/brand/favicon-48.png : Favicon, 48 by 48.
-All marks are flat vector, no text, readable at 32 pixels.
+- https://raw.githubusercontent.com/ai-index-optimizer/ai-index-optimizer/main/assets/brand/aio_lens1-512.png : Official logo, 512 by 512. AIO lockup, the I drawn as a magnifying glass.
+- https://raw.githubusercontent.com/ai-index-optimizer/ai-index-optimizer/main/assets/brand/aio_lens1-48.png : Official favicon, 48 by 48.
+- https://raw.githubusercontent.com/ai-index-optimizer/ai-index-optimizer/main/assets/brand/aio_lens2-512.png : Compact variant for very small avatars.
 
 ## Screenshots and product visuals
 - /geo-audit : scan entry screen, the four audit checks, per-provider result table.
