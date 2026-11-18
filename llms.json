@@ -2,6 +2,7 @@
   "name": "AI Index Optimizer",
   "url": "https://ai-index-optimizer.com",
   "summary": "AI visibility audits and fixes: which AI crawlers are blocked, whether llms.txt and access files exist, and what ChatGPT, Claude, Gemini and Perplexity can read.",
+  "logo": "https://raw.githubusercontent.com/ai-index-optimizer/ai-index-optimizer/main/assets/brand/aio_lens1-512.png",
   "pricing": {
     "currency": "USD",
     "plans": [
@@ -46,25 +47,26 @@
   ],
   "images": [
     {
-      "url": "https://raw.githubusercontent.com/ai-index-optimizer/ai-index-optimizer/main/assets/brand/logo-lens-512.png",
-      "alt": "AI Index Optimizer brand mark, a lens with an upward index arrow",
+      "url": "https://raw.githubusercontent.com/ai-index-optimizer/ai-index-optimizer/main/assets/brand/aio_lens1-512.png",
+      "alt": "AI Index Optimizer logo: AIO lettering where the I is a magnifying glass",
       "type": "logo",
+      "primary": true,
       "width": 512,
       "height": 512
     },
     {
-      "url": "https://raw.githubusercontent.com/ai-index-optimizer/ai-index-optimizer/main/assets/brand/logo-bars-512.png",
-      "alt": "AI Index Optimizer alternate mark, three ascending bars with a lens aperture",
-      "type": "logo",
-      "width": 512,
-      "height": 512
-    },
-    {
-      "url": "https://raw.githubusercontent.com/ai-index-optimizer/ai-index-optimizer/main/assets/brand/favicon-48.png",
+      "url": "https://raw.githubusercontent.com/ai-index-optimizer/ai-index-optimizer/main/assets/brand/aio_lens1-48.png",
       "alt": "AI Index Optimizer favicon",
       "type": "favicon",
       "width": 48,
       "height": 48
+    },
+    {
+      "url": "https://raw.githubusercontent.com/ai-index-optimizer/ai-index-optimizer/main/assets/brand/aio_lens2-512.png",
+      "alt": "AI Index Optimizer compact avatar variant",
+      "type": "logo",
+      "width": 512,
+      "height": 512
     }
   ],
   "contact": "hello@ai-index-optimizer.com",
