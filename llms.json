@@ -1,0 +1,72 @@
+{
+  "name": "AI Index Optimizer",
+  "url": "https://ai-index-optimizer.com",
+  "summary": "AI visibility audits and fixes: which AI crawlers are blocked, whether llms.txt and access files exist, and what ChatGPT, Claude, Gemini and Perplexity can read.",
+  "pricing": {
+    "currency": "USD",
+    "plans": [
+      {
+        "name": "Free",
+        "price": 0,
+        "domains": 1
+      },
+      {
+        "name": "Starter",
+        "price": 39,
+        "domains": 3,
+        "period": "month"
+      },
+      {
+        "name": "Growth",
+        "price": 99,
+        "domains": 10,
+        "period": "month"
+      },
+      {
+        "name": "Agency",
+        "price": 299,
+        "domains": 30,
+        "period": "month"
+      }
+    ]
+  },
+  "pages": [
+    {
+      "url": "https://ai-index-optimizer.com/",
+      "title": "AI Index Optimizer"
+    },
+    {
+      "url": "https://ai-index-optimizer.com/geo-audit",
+      "title": "Free AI visibility audit"
+    },
+    {
+      "url": "https://ai-index-optimizer.com/pricing",
+      "title": "Pricing"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://raw.githubusercontent.com/ai-index-optimizer/ai-index-optimizer/main/assets/brand/logo-lens-512.png",
+      "alt": "AI Index Optimizer brand mark, a lens with an upward index arrow",
+      "type": "logo",
+      "width": 512,
+      "height": 512
+    },
+    {
+      "url": "https://raw.githubusercontent.com/ai-index-optimizer/ai-index-optimizer/main/assets/brand/logo-bars-512.png",
+      "alt": "AI Index Optimizer alternate mark, three ascending bars with a lens aperture",
+      "type": "logo",
+      "width": 512,
+      "height": 512
+    },
+    {
+      "url": "https://raw.githubusercontent.com/ai-index-optimizer/ai-index-optimizer/main/assets/brand/favicon-48.png",
+      "alt": "AI Index Optimizer favicon",
+      "type": "favicon",
+      "width": 48,
+      "height": 48
+    }
+  ],
+  "contact": "hello@ai-index-optimizer.com",
+  "updated": "2026-11-18"
+}
