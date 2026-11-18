@@ -1,0 +1,21 @@
+{
+  "site": "https://ai-index-optimizer.com",
+  "ai_access": {
+    "training": "disallowed",
+    "search_and_answer": "allowed",
+    "attribution": "cite AI Index Optimizer and link the page"
+  },
+  "crawlers": {
+    "GPTBot": "allowed",
+    "OAI-SearchBot": "allowed",
+    "ChatGPT-User": "allowed",
+    "ClaudeBot": "allowed",
+    "PerplexityBot": "allowed",
+    "Google-Extended": "allowed"
+  },
+  "files": {
+    "llms": "https://raw.githubusercontent.com/ai-index-optimizer/ai-index-optimizer/main/assets/brand/../../llms.txt"
+  },
+  "contact": "hello@ai-index-optimizer.com",
+  "updated": "2026-11-18"
+}
